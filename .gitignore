@@ -1,0 +1,5 @@
+.idea
+bookmarks/db.sqlite3
+bookmarks/bookmarks/settings/local.py
+bookmarks/config
+bookmarks/media
