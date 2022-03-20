@@ -1,0 +1,5 @@
+db.sqlite3
+bookmarks/settings/local.py
+bookmarks/settings/settings.ini
+config
+media
